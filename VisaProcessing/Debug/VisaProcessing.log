@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\farishasković\documents\visual studio 2015\projects\visaprocessing\visaprocessing\source.cpp(421): warning C4018: '<': signed/unsigned mismatch
+c:\users\farishasković\documents\visual studio 2015\projects\visaprocessing\visaprocessing\source.cpp(451): warning C4018: '<': signed/unsigned mismatch
+c:\users\farishasković\documents\visual studio 2015\projects\visaprocessing\visaprocessing\source.cpp(480): warning C4018: '<': signed/unsigned mismatch
+c:\users\farishasković\documents\visual studio 2015\projects\visaprocessing\visaprocessing\source.cpp(503): warning C4018: '<': signed/unsigned mismatch
+c:\users\farishasković\documents\visual studio 2015\projects\visaprocessing\visaprocessing\source.cpp(132): warning C4018: '<': signed/unsigned mismatch
+  c:\users\farishasković\documents\visual studio 2015\projects\visaprocessing\visaprocessing\source.cpp(131): note: while compiling class template member function 'FITKolekcija<int,int,7>::~FITKolekcija(void)'
+  c:\users\farishasković\documents\visual studio 2015\projects\visaprocessing\visaprocessing\source.cpp(558): note: see reference to function template instantiation 'FITKolekcija<int,int,7>::~FITKolekcija(void)' being compiled
+  c:\users\farishasković\documents\visual studio 2015\projects\visaprocessing\visaprocessing\source.cpp(558): note: see reference to class template instantiation 'FITKolekcija<int,int,7>' being compiled
+c:\users\farishasković\documents\visual studio 2015\projects\visaprocessing\visaprocessing\source.cpp(210): warning C4018: '<': signed/unsigned mismatch
+  c:\users\farishasković\documents\visual studio 2015\projects\visaprocessing\visaprocessing\source.cpp(304): note: see reference to function template instantiation 'std::ostream &operator <<<Status,std::string,10>(std::ostream &,FITKolekcija<Status,std::string,10> &)' being compiled
+  VisaProcessing.vcxproj -> c:\users\farishasković\documents\visual studio 2015\Projects\VisaProcessing\Debug\VisaProcessing.exe
